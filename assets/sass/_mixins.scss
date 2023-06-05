@@ -1,0 +1,6 @@
+@import "../../themes/puppet/assets/sass/mixins.scss";
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap');
+
+@mixin sans-serif() {
+	font-family: 'IBM Plex Sans JP', sans-serif;
+}

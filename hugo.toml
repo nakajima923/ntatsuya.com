@@ -1,5 +1,5 @@
 baseURL = 'https://ntatsuya.com/'
-title = 'BLOG'
+title = "Naka-Tabi"
 
 theme = 'puppet'
 
