@@ -56,7 +56,7 @@ weight = 150
 
 [params]
 author = "nakajima"
-description = "A simple and clean theme for Hugo"
+#description = "植物、鳥とか"
 keywords = "blog,developer,personal"
 img_home = "img/IMG_1414.jpg"
 img_404 = "img/_MG_3824.jpg"
