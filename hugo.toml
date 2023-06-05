@@ -1,11 +1,21 @@
 baseURL = 'https://ntatsuya.com/'
+title = 'BLOG'
+
+theme = 'puppet'
+
+copyright = 'Copyright © 2023 Tatsuya Nakajima'
+paginate = 3
 languageCode = 'ja'
 defaultContentLanguage = "ja"
-title = 'BLOG'
-theme = 'puppet'
+
 hasCJKLanguage = true
-copyright = 'Copyright © 2023 Tatsuya Nakajima'
+
+ignoreErrors = ["error-remote-getjson"]
+
 googleAnalytics = "G-39PQQB4CK3"
+
+[language]
+lang = 'ja'
 
 [outputs]
 home = ["HTML", "JSON", "RSS"]
@@ -52,9 +62,6 @@ name = "Instagram"
 url = "https://www.instagram.com/ntmkc951/"
 weight = 150
 
-
-
-
 [params]
 author = "nakajima"
 #description = "植物、鳥とか"
@@ -62,7 +69,7 @@ keywords = "blog,developer,personal"
 img_home = "img/IMG_1414.jpg"
 img_404 = "img/_MG_3824.jpg"
 
-useFaviconGenerator = true
+useFaviconGenerator = false
 
 custom_js = [ "js/clarity.js" ]
 custom_css = []
