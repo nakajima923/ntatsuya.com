@@ -66,7 +66,7 @@ weight = 150
 author = "nakajima"
 #description = "植物、鳥とか"
 keywords = "blog,developer,personal"
-img_home = "img/IMG_1414.jpg"
+img_home = "img/IMG_1055.jpg"
 img_404 = "img/_MG_3824.jpg"
 
 useFaviconGenerator = false
