@@ -1,5 +1,6 @@
 baseURL = 'https://ntatsuya.com/'
 languageCode = 'ja'
+defaultContentLanguage = "ja"
 title = 'BLOG'
 theme = 'puppet'
 hasCJKLanguage = true
