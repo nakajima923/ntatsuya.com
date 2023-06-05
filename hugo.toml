@@ -4,6 +4,7 @@ title = 'BLOG'
 theme = 'puppet'
 hasCJKLanguage = true
 copyright = 'Copyright © 2023 Tatsuya Nakajima'
+googleAnalytics = "G-39PQQB4CK3"
 
 [outputs]
 home = ["HTML", "JSON", "RSS"]
