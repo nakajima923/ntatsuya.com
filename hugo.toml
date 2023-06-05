@@ -63,8 +63,8 @@ img_404 = "img/_MG_3824.jpg"
 
 useFaviconGenerator = true
 
-custom_js = []
-custom_css = [] # ["css/custom.css"]  Add your file to assets folder  [assets/css/custom.css]
+custom_js = [ "js/clarity.js" ]
+custom_css = []
 
 [params.sidebar]
 enable = true
